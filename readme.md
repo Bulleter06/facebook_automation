@@ -5,6 +5,7 @@
 1. Clone the repository
 2. Install the required dependencies
 `pip install -r requirements.txt`
+3. Start script using `python main.py`
 
 ### Test output provided in out.log
 ### Login credentials must be in .env file (.env.sample provided)
