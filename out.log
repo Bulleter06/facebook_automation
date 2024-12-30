@@ -1,0 +1,4 @@
+2024-12-31 01:46:37.519 | DEBUG    | browser:open_page:74 - Page https://www.facebook.com/ loaded
+2024-12-31 01:46:41.741 | WARNING  | browser:login:50 - Captcha page obtained! Please fill captcha and press Enter
+2024-12-31 01:47:02.585 | DEBUG    | browser:open_page:74 - Page https://www.facebook.com/me loaded
+2024-12-31 01:47:03.620 | INFO     | browser:parse_profile_image:63 - Profile Image Link: https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-1/472074022_1131883112276290_6574297550655758511_n.jpg?stp=c0.0.600.600a_dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=6a0-hnT_W5AQ7kNvgEMIWwL&_nc_zt=24&_nc_ht=scontent-iev1-1.xx&_nc_gid=AAa2-U65wXHbwfUTHVjwOIe&oh=00_AYATAX2aGpOXohZF4Y0MAeXOE4WIkyyS4mTRC_CqaLNKNg&oe=6778FC17
